@@ -544,6 +544,10 @@ A new AI conversation should be able to receive this file and immediately unders
 
 The master context should be updated when important information changes.
 
+The canonical GitHub repository is:
+
+`https://github.com/abdymok/abdymok-master-context`
+
 It should not become an enormous transcript of previous conversations.
 
 ---
@@ -564,7 +568,9 @@ OneNote can also be used as a convenient human-readable notebook.
 
 The important thing is that there is **one authoritative version** rather than different versions living inside different AI accounts.
 
-A second backup can be kept elsewhere, including GitHub, provided the file contains no private credentials or sensitive information.
+The GitHub repository `abdymok/abdymok-master-context` is now the durable external home for the master context.
+
+OneDrive can remain a convenient working copy, provided it is kept in sync. The file contains no private credentials or sensitive information.
 
 ---
 
@@ -803,6 +809,22 @@ When helping with archive/search:
 
 **Underlying data first.**
 
+When helping with historical archive work:
+
+**Preserve the record, don't rewrite the past.**
+
+When handling firsthand observations:
+
+**Record what was observed without inventing the cause.**
+
+When handling uncertainty:
+
+**Preserve what was unknown at the time.**
+
+When handling old writing:
+
+**Rescue good material without pretending the younger writer was the person I am now.**
+
 ---
 
 # 27 — OPEN PROJECTS
@@ -875,6 +897,135 @@ It contains working context only.
 
 ---
 
+# 31 — THE ARCHIVE AND THE WITNESS
+
+The archive is being assembled while history is still happening.
+
+I am not writing a book about the war. The record itself is the work.
+
+I have lived and worked through long periods in Berlin, Moscow, Kyiv, Belarus and Belgrade, and now in Kyiv during a large and continuing war. That experience matters to the archive because it places the writing inside events rather than after them.
+
+The war is not a finished historical object. It may become worse, bloodier, colder and more miserable before it ends. Do not write as though the eventual outcome is already known.
+
+The purpose of the archive is to leave an honest record of:
+
+* what was seen
+* what was heard
+* what was reported
+* what was believed at the time
+* what was unknown
+* what was later established or disproved
+* how people responded
+* how assumptions changed
+
+The central question is not simply:
+
+**What happened?**
+
+It is also:
+
+**What did they know, and when did they know it?**
+
+That distinction matters.
+
+A contemporary report may contain an error that was reasonable given the information available at the time. Preserve the fact that the error existed. A later correction does not erase the earlier state of knowledge.
+
+## Preservation, not revision
+
+Old material should normally remain as it was written.
+
+When an old article is rediscovered and is still useful, it may be rescued into a clean, readable HTML page and placed on GitHub. That is a preservation edition, not a rewrite.
+
+Do not silently rewrite old arguments, smooth out contradictions, modernize old uncertainty, or make the younger writer sound like the person I am now.
+
+If context is necessary, put the context around the original material rather than rewriting the original.
+
+The archive is additive, not corrective.
+
+## No cherrypicking
+
+The archive should contain:
+
+* no cherry-picked quotations used to manufacture a cleaner argument
+* no invented quotations
+* no fiction presented as fact
+* no invented connective tissue
+* no retrospective certainty where contemporary uncertainty existed
+* no selective omission merely because something is inconvenient
+* no invented motives
+* no smoothing away contradictions that were actually present
+
+Do not make the record tidier than reality was.
+
+## Firsthand observation
+
+A firsthand observation is evidence of what the witness observed.
+
+If I say:
+
+**I heard a boom.**
+
+that means I heard a boom.
+
+It does not by itself establish what caused the boom.
+
+Likewise, something seen from the balcony is evidence of what was visible from the balcony. It is not automatically evidence of what happened elsewhere or why it happened.
+
+Keep observation, inference, attribution and conclusion separate.
+
+## Contemporary reporting
+
+The model is closer to good contemporary reporting from Sarajevo in the 1990s than to a later definitive history of the conflict.
+
+The texture matters.
+
+Uncertainty matters.
+
+Mistakes matter.
+
+Corrections matter.
+
+Contradictory reports matter.
+
+What people thought was happening matters even when later evidence showed that they were wrong.
+
+The archive should preserve the state of knowledge as it developed.
+
+## The archive as the book
+
+There is no intention to turn this material into a book about the war.
+
+The accumulated record is the work.
+
+Substack remains the living daily record.
+
+GitHub Pages provide durable, readable presentations and chronologies.
+
+The old abdymok material remains a reservoir from which useful pieces can be rescued when they become relevant.
+
+Monthly Markdown snapshots provide preserved research material for Gemini and other AI systems.
+
+AI systems are tools for retrieval, comparison and analysis. They are not authorities over the archive.
+
+Analytics can show how readers move through the material. They should not determine what the historical record contains.
+
+## The 2126 test
+
+When preserving or editing material, ask:
+
+**Would an intrepid reader in 2126 be able to ask:**
+
+* Is this what they really knew?
+* Is this really what they saw?
+* Is this really what they reported?
+* Is this really how they responded?
+
+**And find an honest record?**
+
+That is the standard.
+
+---
+
 # 30 — MAINTENANCE
 
 When something important changes:
@@ -886,4 +1037,4 @@ When something important changes:
 * keep current projects current
 * preserve historical information when it remains useful for understanding the work
 
-**Last major assembly: October 2026. Last revised: October 3, 2026.**
+**Last major assembly: October 2026. Last revised: October 6, 2026.**
