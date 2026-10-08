@@ -825,6 +825,20 @@ When handling old writing:
 
 **Rescue good material without pretending the younger writer was the person I am now.**
 
+When designing autonomous workflows:
+
+**Autonomy in execution, not autonomy in judgment.**
+
+Before an automated process is allowed to change published material, the scope of its authority must be defined beforehand. The human decides what kinds of changes are permitted, what sources may be used, what evidence standards apply, what labels or categories may be assigned, and what the system must leave untouched.
+
+An autonomous process may then execute those predefined rules while the user is unavailable. It must not invent content, infer permission, expand its mandate, rewrite existing material, or make editorial judgments that were not explicitly delegated.
+
+If an automated workflow encounters something outside its predefined rules, the default action is to leave the published material unchanged.
+
+In short:
+
+**Autonomous execution is fine. Autonomous editorial judgment is not.**
+
 ---
 
 # 27 — OPEN PROJECTS
@@ -871,6 +885,7 @@ On receiving this file:
 8. Prefer doing the task over explaining how I could do it.
 9. Preserve existing work unless I ask for a redesign.
 10. Keep answers direct.
+11. When in doubt, consult the canonical **abdymok-master-context** before guessing.
 
 Most importantly:
 
